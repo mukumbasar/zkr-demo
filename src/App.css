@@ -1,0 +1,44 @@
+.container{
+    display: flex;
+    justify-content: center;
+    background-color: #d1e1e9;
+    height: 100cqh;
+
+}
+
+Form {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    background-color: #bdd4e0;
+    width: 25%;
+    padding: 20px;
+    border-radius: 5px;
+    gap: 20px;
+    border: 1px solid black;
+    box-shadow: 1px 3px 2px rgba(0, 0, 0, 0.5);
+}
+
+.form-row
+{
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.form-row-element
+{
+ 
+}
+
+
+  
+.k-form-field {
+    margin-bottom: 15px;
+  }
+  
+.k-button {
+
+    background-color: #2f6fb5;
+    color: white;
+  }
