@@ -1,0 +1,4268 @@
+{
+    "Done": true,
+    "ErrorMessage": "",
+    "dbError": false,
+    "SessionId": "f5f1a562-3f84-4eac-afee-545c35a706c7@xctserver",
+    "Any": 0,
+    "CurrentUsername": "erdalozkazanc",
+    "CurrentUserLanguage": "EN",
+    "CurrentDateTime": "2024-09-23T14:00:35.2534656+03:00",
+    "WsInfo": {
+      "VisualTrace": false,
+      "WorkingSetName": "HREgitimActivity_ws",
+      "WindowType": "Childwindow",
+      "CloseWindow": false,
+      "DisplayKey": "fcd76122-bbac-49eb-911a-24d8ec43b5cd",
+      "Title": "Planlanmış Eğitim ",
+      "RootWorkItemName": "Main",
+      "AllowScroll": 0,
+      "BaselineDataAfterLoad": false,
+      "ActivityInfo": {
+        "Code": "HREgitimActivity",
+        "Id": "fcd76122-bbac-49eb-911a-24d8ec43b5cd",
+        "Priority": 1,
+        "Status": "new",
+        "Header": "Planlanmış Eğitim (Başlamadı)",
+        "Activitylog": "@ 19.09.2024 14:58 ,  Erdal Özkazanç {Başlatıldı}\n@ 23.09.2024 12:21 ,  Erdal Özkazanç {Güncellendi}\n@ 23.09.2024 12:22 ,  Erdal Özkazanç {Güncellendi}\n",
+        "Createdby": "Erdal Özkazanç",
+        "LastUpdatedBy": "Erdal Özkazanç",
+        "CreatedAt": "2024-09-19T14:58:34.3436825",
+        "LastUpdatedAt": "2024-09-23T12:22:25.9342026",
+        "DueDate": "2024-09-23T12:22:25.3872553",
+        "AutoComplete": false,
+        "AllowDocumentManagement": false,
+        "AllowNewDocuments": true,
+        "AllowDownload": false,
+        "DocumentManagementTitle": "Planlanmış Eğitim (Başlamadı) Dökümanlar",
+        "Reports": []
+      },
+      "ScheduleInfo": {
+        "AllowScheduling": false,
+        "AutoOpen": false,
+        "DayStartTime": "08:00:00",
+        "DayEndTime": "17:59:59",
+        "SlotDuration": "00:15:00",
+        "DurationVisible": false,
+        "Duration": 0,
+        "FindFirstAvailable": false,
+        "FreeOverbook": false,
+        "FreeOverbookVisible": false,
+        "CurrentDate": "0001-01-01T00:00:00",
+        "ViewStart": "0001-01-01T00:00:00",
+        "ViewEnd": "0001-01-01T00:00:00",
+        "UseSelectedDate": false,
+        "OpenSchedule": false,
+        "IsDateChange": false
+      },
+      "Commands": {
+        "cancel": {
+          "CommandKey": "cancel",
+          "Caption": "Close",
+          "Postback": "postback",
+          "WaitMessage": "",
+          "AutoRunEvery": 0,
+          "DisplayAtBottom": true,
+          "CloseCurrent": false
+        },
+        "save": {
+          "CommandKey": "save",
+          "Caption": "Save",
+          "Postback": "postback",
+          "WaitMessage": "",
+          "AutoRunEvery": 0,
+          "DisplayAtBottom": true,
+          "CloseCurrent": false
+        },
+        "start": {
+          "CommandKey": "start",
+          "Caption": "Başladı",
+          "Postback": "postback",
+          "WaitMessage": "",
+          "AutoRunEvery": 0,
+          "DisplayAtBottom": true,
+          "CloseCurrent": false
+        }
+      },
+      "Lists": {
+        "_PersonelAdi": {
+          "Name": "_PersonelAdi",
+          "ListRoot": {
+            "IsSelectable": true,
+            "qIsExpanded": false,
+            "Items": [
+              {
+                "Text": "Personel Listesi",
+                "Color": "DarkGreen",
+                "IsSelectable": false,
+                "ShortCut": "",
+                "qIsExpanded": false,
+                "Items": [
+                  {
+                    "PathName": "erdal",
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^erdal",
+                    "Name": "Erdal ...."
+                  },
+                  {
+                    "Color": "red",
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^duyguezer",
+                    "Name": "Duygu Aksen Ezer"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^gazikose",
+                    "Name": "Abdulgazi Köse"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^abdullaherkantarhan",
+                    "Name": "Abdullah Erkan Tarhan (M)"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^halukozen",
+                    "Name": "Abdurrahim Haluk Özen (M)"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^ademyalcin",
+                    "Name": "Adem Yalçın"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^afrakaraoglu",
+                    "Name": "Afra Nur Karaoğlu"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^ahmetbakuluer",
+                    "Name": "Ahmet Bakülüer"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^ahmetyazman",
+                    "Name": "Ahmet Can Yazman"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^ahmeteminkurekci",
+                    "Name": "Ahmet Emin Kürekci"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^ahmeterdem",
+                    "Name": "Ahmet Erdem (M)"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^ahmetkaangunduz",
+                    "Name": "Ahmet Kaan Gündüz (M)"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^ahmetkaramercan",
+                    "Name": "Ahmet Karamercan (M)"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^ahmetmemduhkaymaz",
+                    "Name": "Ahmet Memduh Kaymaz (M)"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^ahmetozek",
+                    "Name": "Ahmet Özek (M)"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^selimyucehalil",
+                    "Name": "Ahmet Selim Yücehalil"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^zulfiyeakyan",
+                    "Name": "Aişe Zülfiye Akyan"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^alevtozanli",
+                    "Name": "Alev Tozanlı"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^alevunverdi",
+                    "Name": "Alev Ünverdi"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^aleynacetintas",
+                    "Name": "Aleyna Çetintaş"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^aleynayada",
+                    "Name": "Aleyna Nermin Yada"
+                  },
+                  {
+                    "PathName": "Ali Ergen (M)",
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^aliergen",
+                    "Name": "Ali Ergen (M), Doktor"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^alikemalerdemoglu",
+                    "Name": "Ali Kemal Erdemoğlu (M)"
+                  },
+                  {
+                    "PathName": "Ali Naki Selmanpakoğlu",
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^alinakiselmanpakoglu",
+                    "Name": "Ali Naki Selmanpakoğlu, Doktor"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^aliosmanyalcin",
+                    "Name": "Ali Osman Yalçın"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^aliozcan",
+                    "Name": "Ali Özcan"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^aliteomantellioglu",
+                    "Name": "Ali Teoman Tellioğlu (M)"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^alivural",
+                    "Name": "Ali Vural"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^alpaslansenkoylu",
+                    "Name": "Alpaslan Şenköylü (M)"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^alperturk",
+                    "Name": "Alper Türk"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^altansahin",
+                    "Name": "Altan Şahin (M)"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^anilturgut",
+                    "Name": "Anıl Turgut"
+                  },
+                  {
+                    "PathName": "Anita Deniz Alpay Baydoğan",
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^denizalpay",
+                    "Name": "Anita Deniz Alpay Baydoğan, Doktor"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^enderyilmaz",
+                    "Name": "Arif Ender Yılmaz"
+                  },
+                  {
+                    "PathName": "Arzu Pampal",
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^arzupampal",
+                    "Name": "Arzu Pampal, Doktor"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^asenayuzuak",
+                    "Name": "Asena Hürrem Yüzüak"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^asenakaytaz",
+                    "Name": "Asena Kaytaz"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^asiyetasci",
+                    "Name": "Asiye Taşçı"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^asliboynuegri",
+                    "Name": "Aslı Boynueğri"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^aslioz",
+                    "Name": "Aslı Öz"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^asliyuceturk",
+                    "Name": "Aslı Yücetürk (M)"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^aslihanaydogmus",
+                    "Name": "Aslıhan Aydoğmuş"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^aslihanyazicioglu",
+                    "Name": "Aslıhan Yazıcıoğlu (M)"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^atakancerit",
+                    "Name": "Atakan Cerit"
+                  },
+                  {
+                    "Text": "Çağrı Merkezi Personel",
+                    "Color": "Orange",
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^asliergul",
+                    "Name": "Atife Aslı Ergül"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^atillakurtay",
+                    "Name": "Atilla Kurtay (M)"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^avnibabacan",
+                    "Name": "Avni Babacan (M)"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^avnisarac",
+                    "Name": "Avni Saraç"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^aybukebulguroglu",
+                    "Name": "Aybüke Bulguroğlu"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^aycanugurkayikcioglu",
+                    "Name": "Aycan Uğur Kayıkçıoğlu (M)"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^ayhankarabulut",
+                    "Name": "Ayhan Karabulut (M)"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^aykutbugrasenturk",
+                    "Name": "Aykut Buğra Şentürk, Doktor"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^aylinayrim",
+                    "Name": "Aylin Ayrım (M)"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^aylinbillursendur",
+                    "Name": "Aylin Billur Şendur, Doktor"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^aylinguzelce",
+                    "Name": "Aylin Güzelce"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^aylintarcan",
+                    "Name": "Aylin Tarcan (M)"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^aynurkonuralp",
+                    "Name": "Aynur Konuralp"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^aysearslaner",
+                    "Name": "Ayşe Arslaner"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^mugeakilli",
+                    "Name": "Ayşe Müge Akıllı"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^ozgecaglar",
+                    "Name": "Ayşegül Özge Çağlar"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^aysentopalkara",
+                    "Name": "Ayşen Topalkara (M)"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^aysenasimsek",
+                    "Name": "Aysena Şimşek"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^aysugultekin",
+                    "Name": "Aysu Gültekin"
+                  },
+                  {
+                    "Color": "Green",
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^banko",
+                    "Name": "Banko"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^banuakcal",
+                    "Name": "Banu Akçal (M)"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^banubingol",
+                    "Name": "Banu Bingöl"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^banucelik",
+                    "Name": "Banu Yıldırım Çelik"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^barisozaslan",
+                    "Name": "Barış Özaslan"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^basakguler",
+                    "Name": "Başak Güler (M)"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^basaksahin",
+                    "Name": "Başak Şahin"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^begumokur",
+                    "Name": "Begüm Okur (M)"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^basakondes",
+                    "Name": "Behice Başak Ovayurt Öndeş (M)"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^bekirsitkiaslan",
+                    "Name": "Bekir Sıtkı Aslan (M)"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^belgincanoglu",
+                    "Name": "Belgin Canoğlu"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^benguozdemir",
+                    "Name": "Bengü Özdemir, Doktor"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^bengularisoy",
+                    "Name": "Bengül Arısoy"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^berilsonmez",
+                    "Name": "Beril Sönmez (M)"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^berkguclu",
+                    "Name": "Berk Güçlü (M)"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^bestegulgormez",
+                    "Name": "Beste Gül Görmez"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^bestegultontu",
+                    "Name": "Beste Gül Tontu"
+                  },
+                  {
+                    "Text": "Personel",
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^betulkahraman",
+                    "Name": "Betül Kahraman"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^betulunal",
+                    "Name": "Betül Ünal"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^beyhancakmakkaya",
+                    "Name": "Beyhan Çakmakkaya"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^beyzakumtemur",
+                    "Name": "Beyza Kumtemur"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^beyzanuruslu",
+                    "Name": "Beyza Nur Uslu"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^beyzayilmaz",
+                    "Name": "Beyza Yılmaz"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^bilgekis",
+                    "Name": "Bilge Kış"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^mervekalayci",
+                    "Name": "Bilge Merve Kalaycı"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^bilginaltin",
+                    "Name": "Bilgin Altın"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^binnazaydemir",
+                    "Name": "Binnaz Aydemir"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^birgunkoyurka",
+                    "Name": "Birgün Koyurka"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^birolcivelek",
+                    "Name": "Birol Civelek (M)"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^buketkilincoglu",
+                    "Name": "Buket Kılınçoğlu"
+                  },
+                  {
+                    "Text": "Anestezi Teknisyeni",
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^buketyanik",
+                    "Name": "Buket Yanık"
+                  },
+                  {
+                    "Color": "Darkgreen",
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^bulentakduman",
+                    "Name": "Bülent Akduman"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^bulentcelik",
+                    "Name": "Bülent Çelik"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^bulenterdogan",
+                    "Name": "Bülent Erdoğan (M)"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^bulentkucukpilakci",
+                    "Name": "Bülent Küçükpilakçı (M)"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^burakbalci",
+                    "Name": "Burak Balcı"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^burcingunes",
+                    "Name": "Burçin Özdemir Güneş"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^burcukaramursel",
+                    "Name": "Burcu Saygan Karamürsel (M)"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^burhanettinsukrubozkurt",
+                    "Name": "Burhanettin Şükrü Bozkurt, Doktor"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^buruckolcu",
+                    "Name": "Buruç Kolcu"
+                  },
+                  {
+                    "Text": "Eczacı Teknisyen",
+                    "Color": "Darkgreen",
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^busenurtombakoglu",
+                    "Name": "Busenur Tombakoğlu"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^busenuryucel",
+                    "Name": "Busenur Yücel"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^busragungor",
+                    "Name": "Büşra Güngör"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^busranuryozgat",
+                    "Name": "Büşranur Yozgat"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^canbarlak",
+                    "Name": "Can Barlak, Doktor"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^cananalabas",
+                    "Name": "Canan Alabaş"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^cananisik",
+                    "Name": "Canan Işık"
+                  },
+                  {
+                    "Text": "Çağrı Merkezi Personel",
+                    "Color": "Orange",
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^cansucan",
+                    "Name": "Cansu Can"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^cenkyucelbilen",
+                    "Name": "Cenk Yücel Bilen (M)"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^cerenkaratepe",
+                    "Name": "Ceren Karatepe"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^cerensunarli",
+                    "Name": "Ceren Su Narlı"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^cigdemsumer",
+                    "Name": "Çiğdem Sümer"
+                  },
+                  {
+                    "Text": "Eczacı Kalfa",
+                    "Color": "darkgreen",
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^cihanpehlivan",
+                    "Name": "Cihan Pehlivan"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^cihangircakici",
+                    "Name": "Cihangir Çakıcı, Doktor"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^cihangircayan",
+                    "Name": "Cihangir Çayan, Doktor"
+                  },
+                  {
+                    "PathName": "Çocuk Alerji Doktoru",
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^cadoktor",
+                    "Name": "Çocuk Alerji Doktoru, Doktor"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^demetbegdili",
+                    "Name": "Demet Beğdili"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^denizesinler",
+                    "Name": "Deniz Esinler (M)"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^denizsarica",
+                    "Name": "Deniz Sarıca"
+                  },
+                  {
+                    "Text": "Eczacı",
+                    "Color": "Purple",
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^dilarakilic",
+                    "Name": "Dilara Kılıç"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^dursuntercan",
+                    "Name": "Dursun Tercan"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^ebrualmacioglu",
+                    "Name": "Ebru Almacıoğlu"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^ebruaydin",
+                    "Name": "Ebru Aydın"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^eczaci",
+                    "Name": "Eczacı"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^edaaslan",
+                    "Name": "Eda Aslan"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^edaucar",
+                    "Name": "Hanife Eda Uçar"
+                  },
+                  {
+                    "Text": "Personel",
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^edanurozer",
+                    "Name": "Edanur Özer"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^ekmeltezel",
+                    "Name": "Ekmel Tezel (M)"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^elifaylintaskin",
+                    "Name": "Elif Aylin Taşkın (M)"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^elifkeskin",
+                    "Name": "Elif Keskin"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^elifnazlicetindag",
+                    "Name": "Elif Nazlı Çetindağ, Doktor"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^elificli",
+                    "Name": "Elif Zeynep İçli"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^emelbayrak",
+                    "Name": "Emel Bayrak, Doktor"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^eminertugrulsener",
+                    "Name": "Emin Ertuğrul Şener (M)"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^eminealtinay",
+                    "Name": "Emine Altinay (M)"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^emineaylintotan",
+                    "Name": "Emine Aylin Totan (M)"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^eminemutlu",
+                    "Name": "Emine Mutlu"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^eminesarman",
+                    "Name": "Emine Şarman"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^emredemirkaya",
+                    "Name": "Emre Demirkaya"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^emreavci",
+                    "Name": "Emre Eser Avcı"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^enginkocer",
+                    "Name": "Engin Koçer"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^ercumenthayritekin",
+                    "Name": "Ercüment Hayri Tekin (M)"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^erdalozkazanc",
+                    "Name": "Erdal Özkazanç, Doktor"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^erdemakmaz",
+                    "Name": "Erdem Akmaz"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^erkanozcelik",
+                    "Name": "Erkan Özçelik"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^ertanergun",
+                    "Name": "Ertan Ergün, Doktor"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^esengulcucin",
+                    "Name": "Esengül Çuçin"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^esmegultalaz",
+                    "Name": "Esme Gül Talaz"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^esrabakan",
+                    "Name": "Esra Bakan"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^esracakir",
+                    "Name": "Esra Çakır"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^esrayayla",
+                    "Name": "Esra Hazal Yayla"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^esrakanik",
+                    "Name": "Esra Kanık"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^esranurbaykal",
+                    "Name": "Esranur Baykal"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^ethembaran",
+                    "Name": "Ethem Baran"
+                  },
+                  {
+                    "Text": "Personel",
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^eylulcerit",
+                    "Name": "Eylül Cerit"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^ezgikoc",
+                    "Name": "Ezgi Koç"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^fadimeatilkan",
+                    "Name": "Fadime Atılkan"
+                  },
+                  {
+                    "Text": "Doktor",
+                    "Color": "OrangeRed",
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^fatmaaytulcakci",
+                    "Name": "Fatma Aytül Çakcı, Doktor"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^fatmabacaksiz",
+                    "Name": "Fatma Bacaksız"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^fatmaguzeozal",
+                    "Name": "Fatma Güze Özal, Doktor"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^fatmaucarsu",
+                    "Name": "Fatma Uçarsu"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^fatosgurbuz",
+                    "Name": "Fatoş Gürbüz"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^ferdasirin",
+                    "Name": "Ferda Şirin, Doktor"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^ferhatmesci",
+                    "Name": "Ferhat Mesci"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^ferittaneri",
+                    "Name": "Ferit Taneri (M)"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^figenuzum",
+                    "Name": "Figen Üzüm"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^cancakci",
+                    "Name": "Fikret Can Çakcı"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^fikretileri",
+                    "Name": "Fikret İleri (M)"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^filizfatmayanik",
+                    "Name": "Filiz Fatma Yanık (M)"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^filizocal",
+                    "Name": "Filiz Öcal, Doktor"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^filizozel",
+                    "Name": "Filiz Özel"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^finans",
+                    "Name": "Finans Sorumlusu"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^fuatayverdi",
+                    "Name": "Fuat Ayverdi"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^fundapektas",
+                    "Name": "Funda Pektaş"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^gizemceviren",
+                    "Name": "Gizem Çeviren"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^gizemdinc",
+                    "Name": "Gizem Dinç"
+                  },
+                  {
+                    "Color": "Blue",
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^gizemcopur",
+                    "Name": "Gizem Yağmur Çopur"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^ezgiazum",
+                    "Name": "Gökçe Ezgi Azum"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^gokcenavci",
+                    "Name": "Gökçen Avcı"
+                  },
+                  {
+                    "PathName": "gokhan",
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^gökhan",
+                    "Name": "Gökhan Memioğlu"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^gokhankizilpinar",
+                    "Name": "Gökhan Kızılpınar, Doktor"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^goksenoz",
+                    "Name": "Gökşen Öz"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^goksuyilmaz",
+                    "Name": "Göksu Yılmaz"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^gozdekesim",
+                    "Name": "Gözde Kesim"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^gulbayrakdar",
+                    "Name": "Gül Döndü Bayrakdar"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^gulcinkafali",
+                    "Name": "Gülçin Kafalı"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^gulsenyildirim",
+                    "Name": "Gülşen Yıldırım"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^gulsumatay",
+                    "Name": "Gülsüm Atay, Doktor"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^guzinbasci",
+                    "Name": "Güzin Başcı (M)"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^besteuysal",
+                    "Name": "Hacer Beste Uysal"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^hakan",
+                    "Name": "hakan"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^hakankolcu",
+                    "Name": "Hakan Kolcu"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^hakansabuncuoglu",
+                    "Name": "Hakan Sabuncuoğlu (M)"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^haldunonuralpkamburoglu",
+                    "Name": "Haldun Onuralp Kamburoğlu (M)"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^haldunuz",
+                    "Name": "Haldun Uz, Doktor"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^harikaokutan",
+                    "Name": "Harika Okutan, Doktor"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^hasanozdemir",
+                    "Name": "Hasan Özdemir"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^hasanranda",
+                    "Name": "Hasan Randa"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^hasanturgutonder",
+                    "Name": "Hasan Turgut Önder, Doktor"
+                  },
+                  {
+                    "PathName": "Hasta Hizmetleri",
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^admin",
+                    "Name": "Patient Services"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^enginguler",
+                    "Name": "Haydar Engin Güler"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^haydarkirikkayaoglu",
+                    "Name": "Haydar Kırıkkayaoğlu"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^hruser",
+                    "Name": "HR Kullanıcısı"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^huseyinuzar",
+                    "Name": "Hüseyin Avni Uzar"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^huseyinozaslan",
+                    "Name": "Hüseyin Özaslan"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^ibrahimdemirdamar",
+                    "Name": "İbrahim Demirdamar"
+                  },
+                  {
+                    "PathName": "İhsan Pelen",
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^ihsanpelen",
+                    "Name": "İhsan Pelen, Doktor"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^candaserdis",
+                    "Name": "İlkem Candaş Erdiş"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^ilknurayguler",
+                    "Name": "İlknur Aygüler"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^inansahin",
+                    "Name": "İnan Şahin"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^isilzennureyildizaktas",
+                    "Name": "Işıl Zennure Yıldız Aktaş"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^ismailbasdemir",
+                    "Name": "İsmail Başdemir"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^ismailkaankayahan",
+                    "Name": "İsmail Kaan Kayahan, Doktor"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^ismetbayramoglu",
+                    "Name": "İsmet Bayramoğlu (M)"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^jalesen",
+                    "Name": "Jale Şen, Doktor"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^kaderertan",
+                    "Name": "Kader Ertan"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^kadirbagdat",
+                    "Name": "Kadir Bağdat"
+                  },
+                  {
+                    "Color": "darkgreen",
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^kadirdinc",
+                    "Name": "Kadir Dinç"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^kadirkemaluygur",
+                    "Name": "Kadir Kemal Uygur (M)"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^kadirsipahi",
+                    "Name": "Kadir Sipahi"
+                  },
+                  {
+                    "Color": "DarkMagenta",
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^alevartan",
+                    "Name": "Kadriye Alev Artan"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^kaysercaglar",
+                    "Name": "Kayser Çağlar, Doktor"
+                  },
+                  {
+                    "Text": "Çağrı Merkezi Personel",
+                    "Color": "Orange",
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^kenziguleryuz",
+                    "Name": "Kenzi Güleryüz"
+                  },
+                  {
+                    "Text": "Eczacı Teknisyen",
+                    "Color": "Darkgreen",
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^keremcelikbas",
+                    "Name": "Kerem Çelikbaş"
+                  },
+                  {
+                    "Text": "Personel",
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^kubrabenek",
+                    "Name": "Kübra Benek"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^kubrayilmaz",
+                    "Name": "Kübra Yılmaz"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^kudretekiz",
+                    "Name": "Kudret Ekiz, Doktor"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^kutaycakiroglu",
+                    "Name": "Kutay Çakıroğlu, Doktor"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^leventbozbeyoglu",
+                    "Name": "Levent Bozbeyoğlu, Doktor"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^leventpirselimoglu",
+                    "Name": "Levent Pirselimoğlu, Doktor"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^lutfiesatustunorhon",
+                    "Name": "Lütfi Esat Üstün Orhon (M), Doktor"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^makbuledilsatmucuk",
+                    "Name": "Makbule Dilşat Mucuk, Doktor"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^sedaaras",
+                    "Name": "Maksude Seda Aras"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^stok",
+                    "Name": "Malzeme Yöneticisi"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^maviyeaydogan",
+                    "Name": "Maviye Aydoğan"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^mehmetaltay",
+                    "Name": "Mehmet Altay"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^mehmetayaz",
+                    "Name": "Mehmet Ayaz"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^mehmetbektas",
+                    "Name": "Mehmet Bektaş (M)"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^mehmetcindoruk",
+                    "Name": "Mehmet Cindoruk (M)"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^girayozcam",
+                    "Name": "Mehmet Giray Özçam"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^mehmetozturk",
+                    "Name": "Michael Donald, Doktor"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^mehmetserdaralp",
+                    "Name": "Mehmet Serdar Alp (M)"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^mehmetsuhanayhan",
+                    "Name": "Mehmet Sühan Ayhan (M)"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^mehtapdonmez",
+                    "Name": "Mehtap Dönmez"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^melekezel",
+                    "Name": "Melek Ezel"
+                  },
+                  {
+                    "Text": "Personel",
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^melikesen",
+                    "Name": "Melike Şen"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^melisagok",
+                    "Name": "Melisa GÖK"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^meralsonmezer",
+                    "Name": "Meral Sönmezer (M)"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^merveburan",
+                    "Name": "Merve Buran"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^mervekurt",
+                    "Name": "Merve Kurt Yalçın"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^meryemyilmaz",
+                    "Name": "Meryem Yılmaz"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^batuhanulgen",
+                    "Name": "Metin Batuhan Ülgen"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^mevlutakan",
+                    "Name": "Mevlüt Ali Akan"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^muazzezdenizsucuoglu",
+                    "Name": "Muazzez Deniz Sucuoğlu, Doktor"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^mugeefekoyunsagan",
+                    "Name": "Müge Efe Koyunsağan, Doktor"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^muhittinturken",
+                    "Name": "Muhittin Türken"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^mukadderkocak",
+                    "Name": "Mukadder Koçak, Doktor"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^munipgokhantuncbilek",
+                    "Name": "Münip Gökhan Tunçbilek (M)"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^muratkantarcioglu",
+                    "Name": "Murat Kantarcıoğlu, Doktor"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^muratkaraman",
+                    "Name": "Murat Karaman"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^murattunc",
+                    "Name": "Murat Tunç (M)"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^muratyasar",
+                    "Name": "Murat Yaşar"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^mustafaceltemen",
+                    "Name": "Mustafa Baran Celtemen (M)"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^mustafasahingeri",
+                    "Name": "John Falcon, Doktor"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^namikkemalduru",
+                    "Name": "Namık Kemal Duru, Doktor"
+                  },
+                  {
+                    "Text": "Eczacı Teknisyen",
+                    "Color": "darkgreen",
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^narinulgu",
+                    "Name": "Narin Ülgü"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^necdetsukrualtun",
+                    "Name": "Necdet Şükrü Altun, Doktor"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^nejatozdogan",
+                    "Name": "Nejat Özdoğan"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^neslihanaslan",
+                    "Name": "Neslihan Aslan"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^nihatakcayoz",
+                    "Name": "Nihat Akçayöz, Doktor"
+                  },
+                  {
+                    "Text": "Çağrı Merkezi Personel",
+                    "Color": "Orange",
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^nilaycaliskan",
+                    "Name": "Nilay Çalışkan"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^nilgunsonmez",
+                    "Name": "Nilgün Sönmez, Doktor"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^nurcanveldet",
+                    "Name": "Nurcan Veldet"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^cnurse",
+                    "Name": "Nurse Yetkili"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^odulaysonmez",
+                    "Name": "Ödülay Sönmez"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^oguzhanozkalkan",
+                    "Name": "Oğuzhan Özkalkan"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^oksanguzel",
+                    "Name": "Okşan Arınç Güzel"
+                  },
+                  {
+                    "Image": "574d709a-1154-4751-90ca-e49c85d41f54",
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^omerhotomaroglu",
+                    "Name": "Omar Smith"
+                  },
+                  {
+                    "Text": "Çağrı Merkezi Sorumlu",
+                    "Color": "Orange",
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^onurhelvacioglu",
+                    "Name": "Onur Helvacıoğlu"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^onurkonuk",
+                    "Name": "Onur Konuk (M)"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^onurkantekin",
+                    "Name": "Onurkan Tekin"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^orhanerbas",
+                    "Name": "Orhan Erbaş (M)"
+                  },
+                  {
+                    "PathName": "Örnek Hemşire İki",
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^nurse2",
+                    "Name": "Örnek Hemşire İki, Hemşire"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^osmanbarkingurcan",
+                    "Name": "Osman Barkın Gürcan (M)"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^osmanerol",
+                    "Name": "Osman Erol"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^ozdentan",
+                    "Name": "Özden Tan"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^ozgesamali",
+                    "Name": "Özge Samalı"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^ozgetek",
+                    "Name": "Özge Tek"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^ozgurderen",
+                    "Name": "Özgür Deren (M)"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^ozlemkaradag",
+                    "Name": "Özlem Karadağ"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^ozlemseker",
+                    "Name": "Özlem Şeker"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^pinarakpinar",
+                    "Name": "Pınar Akpınar Oktar"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^pinarpolat",
+                    "Name": "Pınar Polat, Doktor"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^pinartezel",
+                    "Name": "Pınar Tezel"
+                  },
+                  {
+                    "Text": "Sistem Kullanıcısı Dokunmayın",
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^qservice",
+                    "Name": "qDC Service Account"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^rabiatabag",
+                    "Name": "Rabia Tabağ"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^renginyilmaz",
+                    "Name": "Rengin Yılmaz, Doktor"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^emredundar",
+                    "Name": "Reşat Emre Dündar"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^ridvanakin",
+                    "Name": "Rıdvan Akın, Doktor"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^rukiyeergun",
+                    "Name": "Rukiye Ergün"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^sabihapala",
+                    "Name": "Sabiha Pala, Doktor"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^sadigundogdu",
+                    "Name": "Sadi Gündoğdu, Doktor"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^sadional",
+                    "Name": "Sadi Önal, Doktor"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^hakanunluer",
+                    "Name": "Safa Hakan Ünlüer"
+                  },
+                  {
+                    "Image": "fdabdb1d-7aa6-41d8-aaba-2715629d1d05",
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^doktor",
+                    "Name": "Sample Doktor"
+                  },
+                  {
+                    "PathName": "Sample Nurse",
+                    "Color": "Purple",
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^nurse",
+                    "Name": "Örnek Hemşire, Hemşire"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^sebahatdogan",
+                    "Name": "Sebahat Doğan"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^sebahatturan",
+                    "Name": "Sebahat Turan (M)"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^sebnempekince",
+                    "Name": "Şebnem Pekince"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^seckinsahin",
+                    "Name": "Seçkin Şahin"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^sedapamukcu",
+                    "Name": "Seda Pamukçu, Doktor"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^sedasahin",
+                    "Name": "Seda Şahin"
+                  },
+                  {
+                    "Text": "Koordinatör",
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^sedasertcan",
+                    "Name": "Seda Sertcan"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^sedazengin",
+                    "Name": "Seda Zengin"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^seherguner",
+                    "Name": "Seher Güner"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^selaleozmen",
+                    "Name": "Şelale Özmen (M)"
+                  },
+                  {
+                    "Text": "Hekim Asistanı ve Hasta Sorumlusu Çocuk Hemotoloji",
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^selcannigar",
+                    "Name": "Selcan Nigar"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^selcukaksoy",
+                    "Name": "Selçuk Aksoy (M)"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^selcukozer",
+                    "Name": "Selçuk Özer"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^selimcil",
+                    "Name": "Selim Çil"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^selmaziraman",
+                    "Name": "Selma Zıraman"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^semaaltin",
+                    "Name": "Sema Altın"
+                  },
+                  {
+                    "Text": "Eczacı",
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^semacakmak",
+                    "Name": "Sema Çakmak"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^semanurhas",
+                    "Name": "Semanur Has"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^semihaaslan",
+                    "Name": "Semiha Aslan, Doktor"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^senaakkaya",
+                    "Name": "Sena Akkaya"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^seraptuzemen",
+                    "Name": "Serap Tüzemen"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^serdareren",
+                    "Name": "Serdar Eren, Doktor"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^serdarhan",
+                    "Name": "Serdar Han, Doktor"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^serdarkaplan",
+                    "Name": "Serdar Kaplan"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^serpilkececi",
+                    "Name": "Serpil Keçeci"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^serpiltasdelen",
+                    "Name": "Serpil Taşdelen"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^serpilyanbakan",
+                    "Name": "Serpil Yanbakan"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^servetdemir",
+                    "Name": "Servet Demir"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^sevilkoz",
+                    "Name": "Sevil Koz"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^seydakirar",
+                    "Name": "Şeyda Kırar"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^sezaileventoglu",
+                    "Name": "Sezai Leventoğlu (M)"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^sezenkaraca",
+                    "Name": "Sezen Taşın"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^sibelaydin",
+                    "Name": "Sibel Aydın"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^sibelerbas",
+                    "Name": "Sibel Erbaş"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^solmazatasoy",
+                    "Name": "Solmaz Atasoy, Doktor"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^suatozmen",
+                    "Name": "Suat Özmen"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^sucangorur",
+                    "Name": "Sucan Görür"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^sukranbusraozdal",
+                    "Name": "Şükran Büşra Özdal, Doktor"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^sukrancakmak",
+                    "Name": "Şükran Çakmak (M)"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^suleymansabriuslu",
+                    "Name": "Süleyman Sabri Uslu (M)"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^system",
+                    "Name": "System Manager"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^tarkankarakan",
+                    "Name": "Tarkan Karakan (M)"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^sinansozen",
+                    "Name": "Tevfik Sinan Sözen (M), Doktor"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^tugbakocak",
+                    "Name": "Tuğba Koçak, Doktor"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^tugcekaya",
+                    "Name": "Tuğçe Kaya"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^tugceoztas",
+                    "Name": "Tuğçe Öztaş"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^tuncaynas",
+                    "Name": "Tuncay Nas (M)"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^turgaygul",
+                    "Name": "Turgay Gül, Doktor"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^turkanpatiroglu",
+                    "Name": "Türkan Patıroğlu"
+                  },
+                  {
+                    "Color": "DarkOrchid",
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^ugurdurnali",
+                    "Name": "Uğur Durnalı *"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^umayatmaca",
+                    "Name": "Umay Özge Atmaca"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^umitkorucuoglu",
+                    "Name": "Ümit Korucuoğlu (M)"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^unalsahin",
+                    "Name": "Ünal Şahin (M)"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^ustunezer",
+                    "Name": "Üstün Ezer, Doktor"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^uyguryalcin",
+                    "Name": "Uygur Bülent Yalçın"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^uygursrv",
+                    "Name": "Uygur SRV"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^pc",
+                    "Name": "Uygur Yalçın"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^uygur",
+                    "Name": "Uygur Yalçın"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^vedatokutan",
+                    "Name": "Vedat Okutan, Doktor"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^volkanalmacioglu",
+                    "Name": "Volkan Almacıoğlu"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^yagmurozcan",
+                    "Name": "Yağmur Özcan"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^yakuptarkansoygur",
+                    "Name": "Yakup Tarkan Soygür (M)"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^yasarkucukdegirmenci",
+                    "Name": "Yaşar Küçükdeğirmenci"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^yaseminaltinok",
+                    "Name": "Yasemin Altınok"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^yaseminkilic",
+                    "Name": "Yasemin Kılıç"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^yasinkiratli",
+                    "Name": "Yasin Kıratlı"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^yelizyildiz",
+                    "Name": "Yeliz Yıldız"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^yesimgurel",
+                    "Name": "Yeşim Gürel (M)"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^yeterakin",
+                    "Name": "Yeter Akın"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^emredagdeviren",
+                    "Name": "Yunus Emre Dağdeviren"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^yusufguven",
+                    "Name": "Yusuf Güven"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^yusufhakanturan",
+                    "Name": "Yusuf Hakan Turan (M)"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^zafergokgoz",
+                    "Name": "Zafer Gökgöz"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^zehrasahin",
+                    "Name": "Zehra Pehlivan"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^zelihaidris",
+                    "Name": "Zeliha İdris"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^zeynepmercimek",
+                    "Name": "Zeynep Mercimek"
+                  },
+                  {
+                    "IsSelectable": true,
+                    "ShortCut": "",
+                    "qIsExpanded": false,
+                    "Items": [],
+                    "Code": "R^zuhtudemir",
+                    "Name": "Zühtü Demir (M)"
+                  }
+                ],
+                "Code": "R^allusers",
+                "Name": "All Users "
+              }
+            ]
+          },
+          "RuntimeList": false,
+          "DisableCaching": false
+        },
+        "AttachmentTypeList": {
+          "Name": "AttachmentTypeList",
+          "ListRoot": {
+            "IsSelectable": true,
+            "qIsExpanded": false,
+            "Items": [
+              {
+                "IsSelectable": true,
+                "ShortCut": "",
+                "qIsExpanded": false,
+                "Items": [],
+                "Code": "AttachmentTypeList^testresult",
+                "Name": "Test Sonucu"
+              },
+              {
+                "IsSelectable": true,
+                "ShortCut": "",
+                "qIsExpanded": false,
+                "Items": [],
+                "Code": "AttachmentTypeList^testaddendum",
+                "Name": "Test Ekleri"
+              },
+              {
+                "IsSelectable": true,
+                "ShortCut": "",
+                "qIsExpanded": false,
+                "Items": [],
+                "Code": "AttachmentTypeList^photo",
+                "Name": "Fotoğraf"
+              },
+              {
+                "IsSelectable": true,
+                "ShortCut": "",
+                "qIsExpanded": false,
+                "Items": [],
+                "Code": "AttachmentTypeList^10001",
+                "Name": "Genel Doküman"
+              },
+              {
+                "IsSelectable": true,
+                "ShortCut": "",
+                "qIsExpanded": false,
+                "Items": [],
+                "Code": "AttachmentTypeList^10004",
+                "Name": "Görüntü"
+              },
+              {
+                "IsSelectable": true,
+                "ShortCut": "",
+                "qIsExpanded": false,
+                "Items": [],
+                "Code": "AttachmentTypeList^10002",
+                "Name": "Kimlik Belgesi"
+              },
+              {
+                "IsSelectable": true,
+                "ShortCut": "",
+                "qIsExpanded": false,
+                "Items": [],
+                "Code": "AttachmentTypeList^10003",
+                "Name": "Resmi Yazı"
+              },
+              {
+                "IsSelectable": true,
+                "ShortCut": "",
+                "qIsExpanded": false,
+                "Items": [],
+                "Code": "AttachmentTypeList^10005",
+                "Name": "Taranmış Doküman"
+              }
+            ]
+          },
+          "RuntimeList": false,
+          "DisableCaching": false
+        },
+        "_PersonelDurum": {
+          "Name": "_PersonelDurum",
+          "ListRoot": {
+            "IsSelectable": true,
+            "qIsExpanded": false,
+            "Items": [
+              {
+                "PathName": "Planlandı",
+                "IsSelectable": true,
+                "qIsExpanded": false,
+                "Items": [],
+                "Code": "Planlandı",
+                "Name": "Planlandı"
+              },
+              {
+                "PathName": "Katıldı",
+                "IsSelectable": true,
+                "qIsExpanded": false,
+                "Items": [],
+                "Code": "Katıldı",
+                "Name": "Katıldı"
+              },
+              {
+                "PathName": "Katılmadı",
+                "IsSelectable": true,
+                "qIsExpanded": false,
+                "Items": [],
+                "Code": "Katılmadı",
+                "Name": "Katılmadı"
+              }
+            ]
+          },
+          "RuntimeList": true,
+          "DisableCaching": false
+        },
+        "PersonelDurum": {
+          "Name": "PersonelDurum",
+          "ListRoot": {
+            "IsSelectable": true,
+            "qIsExpanded": false,
+            "Items": [
+              {
+                "PathName": "Planlandı",
+                "IsSelectable": true,
+                "qIsExpanded": false,
+                "Items": [],
+                "Code": "Planlandı",
+                "Name": "Planlandı"
+              },
+              {
+                "PathName": "Katıldı",
+                "IsSelectable": true,
+                "qIsExpanded": false,
+                "Items": [],
+                "Code": "Katıldı",
+                "Name": "Katıldı"
+              },
+              {
+                "PathName": "Katılmadı",
+                "IsSelectable": true,
+                "qIsExpanded": false,
+                "Items": [],
+                "Code": "Katılmadı",
+                "Name": "Katılmadı"
+              }
+            ]
+          },
+          "RuntimeList": true,
+          "DisableCaching": false
+        }
+      },
+      "ListCacheKeys": {
+        "EN_Menu___Menu^mwl__00100": "MenuList",
+        "EN_AF___AF^10009__00100": "SelectedFilter",
+        "EN_AttachmentTypeList_____": "AttachmentTypeList",
+        "RTL_SelectedResource": "SelectedResource",
+        "MenuList": "EN_Menu___Menu^mwl__00100",
+        "SelectedFilter": "EN_AF___AF^10009__00100",
+        "AttachmentTypeList": "EN_AttachmentTypeList_____",
+        "SelectedResource": "RTL_SelectedResource",
+        "_PersonelAdi": "EN_R_ISYERI--UNITGROUP--UNIT--USER_UNIT--USER___00100",
+        "_PersonelDurum": "RTL__PersonelDurum",
+        "PersonelDurum": "RTL_PersonelDurum"
+      },
+      "AllWorkitems": {
+        "Main": {
+          "containerType": "",
+          "containerLayout": {
+            "MinWidth": 0.0,
+            "MaxWidth": "Infinity",
+            "MinHeight": 0.0,
+            "MaxHeight": "Infinity",
+            "FontSize": 12.0,
+            "TabIndex": 0,
+            "Width": 0,
+            "Height": 0,
+            "GridRow": -9,
+            "GridColumn": -9,
+            "GridRowSpan": 1,
+            "GridColumnSpan": 1,
+            "NextRow": false,
+            "IsStack": false,
+            "HorzAlign": 0,
+            "VertAlign": 1
+          },
+          "workitemName": "Main",
+          "title": "*HREgitimActivity_ws*",
+          "showFilter": true,
+          "isEditable": false,
+          "isRowsRequired": false,
+          "showGroup": true,
+          "PartialPostback": false,
+          "IsReloaded": true,
+          "controlType": "",
+          "controlLayout": {
+            "MinWidth": 0.0,
+            "MaxWidth": "Infinity",
+            "MinHeight": 0.0,
+            "MaxHeight": "Infinity",
+            "FontSize": 12.0,
+            "TabIndex": 0,
+            "Width": 0,
+            "Height": 0,
+            "GridRow": -9,
+            "GridColumn": -9,
+            "GridRowSpan": 1,
+            "GridColumnSpan": 1,
+            "NextRow": false,
+            "IsStack": false,
+            "HorzAlign": 0,
+            "VertAlign": 1
+          },
+          "Rows": {
+            "8b77e945-024f-4ac7-9daf-e5a5706dadb8": {
+              "RowKey": "8b77e945-024f-4ac7-9daf-e5a5706dadb8",
+              "RecNumber": 1,
+              "IsSelected": false,
+              "IsDeleted": false,
+              "IsNew": false,
+              "IsUpdated": false,
+              "IsReadOnly": false,
+              "FieldDBValues": {
+                "_PersonelDurum": "Planlandı",
+                "EgitimAdi": "Egitim^10005",
+                "EgitimPlanTarihi": "0001-01-01T00:00:00",
+                "EgitimSure": 30,
+                "EgitimTarihi": "2024-09-20T12:00:00",
+                "EgitimKonusu": "ghghg",
+                "EgitimiVerenKisi": "fggffghfgh"
+              },
+              "BaselineDBValues": {},
+              "FieldValues": {
+                "_PersonelDurum": "Planlandı",
+                "EgitimAdi": "Qdc Etkin Kullanımı",
+                "EgitimPlanTarihi": "0001-01-01T00:00:00",
+                "EgitimSure": 30,
+                "EgitimTarihi": "2024-09-20T12:00:00",
+                "EgitimKonusu": "ghghg",
+                "EgitimiVerenKisi": "fggffghfgh"
+              },
+              "FieldObjects": {
+                "EgitimAdi"       : "44c1040e-7041-4a8d-b98f-500daff69109",
+                "EgitimPlanTarihi": "698ab7ca-2254-475b-9a5b-63a6c210d679",
+                "EgitimSure"      : "ad6fc0f0-f3d8-49d1-b946-643cf41e15e4",
+                "EgitimTarihi"    : "f76ecf62-358b-49ce-8be3-7c280a9b9df4",
+                "EgitimKonusu"    : "33fba1b7-437c-42be-85c4-dcc6e63c75b4",
+                "EgitimiVerenKisi": "0ff4600e-397a-419d-adb9-efc6a4c5214d"
+              },
+              "ChangedFields": []
+            }
+          },
+          "Commands": {},
+          "FieldDefinitions": {
+            "EgitimAdi": {
+              "Name": "EgitimAdi",
+              "BindingName": "EgitimAdi",
+              "DefaultValue": "",
+              "DataType": "string",
+              "IsReadonly": true,
+              "IsRequired": false,
+              "IsEditable": true,
+              "IsHidden": false,
+              "IsUpper": false,
+              "DisplayFormat": "",
+              "Attributes": {},
+              "Label": "Training Name",
+              "Layout": {
+                "MinWidth": 0.0,
+                "MaxWidth": "Infinity",
+                "MinHeight": 0.0,
+                "MaxHeight": "Infinity",
+                "FontSize": 12.0,
+                "TabIndex": 0,
+                "Width": 0,
+                "Height": 0,
+                "GridRow": -9,
+                "GridColumn": -9,
+                "GridRowSpan": 1,
+                "GridColumnSpan": 1,
+                "NextRow": false,
+                "IsStack": false,
+                "HorzAlign": 0,
+                "VertAlign": 1
+              },
+              "FrameworkElement": "textbox",
+              "ListAutoExpand": false,
+              "AttachFileAllowed": false
+            },
+            "EgitimKonusu": {
+              "Name": "EgitimKonusu",
+              "BindingName": "EgitimKonusu",
+              "DefaultValue": "",
+              "DataType": "string",
+              "IsReadonly": true,
+              "IsRequired": false,
+              "IsEditable": true,
+              "IsHidden": false,
+              "IsUpper": false,
+              "DisplayFormat": "",
+              "Attributes": {},
+              "Label": "Education Subject",
+              "Layout": {
+                "MinWidth": 0.0,
+                "MaxWidth": "Infinity",
+                "MinHeight": 0.0,
+                "MaxHeight": "Infinity",
+                "FontSize": 12.0,
+                "TabIndex": 0,
+                "Width": 0,
+                "Height": 0,
+                "GridRow": -9,
+                "GridColumn": -9,
+                "GridRowSpan": 1,
+                "GridColumnSpan": 1,
+                "NextRow": false,
+                "IsStack": false,
+                "HorzAlign": 0,
+                "VertAlign": 1
+              },
+              "FrameworkElement": "textbox",
+              "ListAutoExpand": false,
+              "AttachFileAllowed": false
+            },
+            "EgitimiVerenKisi": {
+              "Name": "EgitimiVerenKisi",
+              "BindingName": "EgitimiVerenKisi",
+              "DefaultValue": "",
+              "DataType": "string",
+              "IsReadonly": true,
+              "IsRequired": false,
+              "IsEditable": true,
+              "IsHidden": false,
+              "IsUpper": false,
+              "DisplayFormat": "",
+              "Attributes": {},
+              "Label": "Person / Organization Providing Training",
+              "Layout": {
+                "MinWidth": 0.0,
+                "MaxWidth": "Infinity",
+                "MinHeight": 0.0,
+                "MaxHeight": "Infinity",
+                "FontSize": 12.0,
+                "TabIndex": 0,
+                "Width": 0,
+                "Height": 0,
+                "GridRow": -9,
+                "GridColumn": -9,
+                "GridRowSpan": 1,
+                "GridColumnSpan": 1,
+                "NextRow": true,
+                "IsStack": false,
+                "HorzAlign": 0,
+                "VertAlign": 1
+              },
+              "FrameworkElement": "textbox",
+              "ListAutoExpand": false,
+              "AttachFileAllowed": false
+            },
+            "EgitimLokasyonu": {
+              "Name": "EgitimLokasyonu",
+              "BindingName": "EgitimLokasyonu",
+              "DefaultValue": "",
+              "DataType": "string",
+              "IsReadonly": true,
+              "IsRequired": false,
+              "IsEditable": true,
+              "IsHidden": false,
+              "IsUpper": false,
+              "DisplayFormat": "",
+              "Attributes": {},
+              "Label": "Education Location",
+              "Layout": {
+                "MinWidth": 0.0,
+                "MaxWidth": "Infinity",
+                "MinHeight": 0.0,
+                "MaxHeight": "Infinity",
+                "FontSize": 12.0,
+                "TabIndex": 0,
+                "Width": 0,
+                "Height": 0,
+                "GridRow": -9,
+                "GridColumn": -9,
+                "GridRowSpan": 1,
+                "GridColumnSpan": 1,
+                "NextRow": false,
+                "IsStack": false,
+                "HorzAlign": 0,
+                "VertAlign": 1
+              },
+              "FrameworkElement": "textbox",
+              "ListAutoExpand": false,
+              "AttachFileAllowed": false
+            },
+            "EgitimPlanTarihi": {
+              "Name": "EgitimPlanTarihi",
+              "BindingName": "EgitimPlanTarihi",
+              "DefaultValue": "",
+              "DataType": "datetime",
+              "IsReadonly": true,
+              "IsRequired": false,
+              "IsEditable": true,
+              "IsHidden": false,
+              "IsUpper": false,
+              "DisplayFormat": "dd.MM.yyyy",
+              "Attributes": {},
+              "Label": "Planning Date",
+              "Layout": {
+                "MinWidth": 0.0,
+                "MaxWidth": "Infinity",
+                "MinHeight": 0.0,
+                "MaxHeight": "Infinity",
+                "FontSize": 12.0,
+                "TabIndex": 0,
+                "Width": 0,
+                "Height": 0,
+                "GridRow": -9,
+                "GridColumn": -9,
+                "GridRowSpan": 1,
+                "GridColumnSpan": 1,
+                "NextRow": true,
+                "IsStack": false,
+                "HorzAlign": 0,
+                "VertAlign": 1
+              },
+              "FrameworkElement": "textbox",
+              "ListAutoExpand": false,
+              "AttachFileAllowed": false
+            },
+            "EgitimPlanSure": {
+              "Name": "EgitimPlanSure",
+              "BindingName": "EgitimPlanSure",
+              "DefaultValue": "",
+              "DataType": "int",
+              "IsReadonly": true,
+              "IsRequired": false,
+              "IsEditable": true,
+              "IsHidden": false,
+              "IsUpper": false,
+              "DisplayFormat": "",
+              "Attributes": {},
+              "Label": "Planned Duration",
+              "Postfix": "dk",
+              "Layout": {
+                "MinWidth": 0.0,
+                "MaxWidth": "Infinity",
+                "MinHeight": 0.0,
+                "MaxHeight": "Infinity",
+                "FontSize": 12.0,
+                "TabIndex": 0,
+                "Width": 0,
+                "Height": 0,
+                "GridRow": -9,
+                "GridColumn": -9,
+                "GridRowSpan": 1,
+                "GridColumnSpan": 1,
+                "NextRow": false,
+                "IsStack": false,
+                "HorzAlign": 0,
+                "VertAlign": 1
+              },
+              "FrameworkElement": "textbox",
+              "ListAutoExpand": false,
+              "AttachFileAllowed": false
+            },
+            "EgitimTarihi": {
+              "Name": "EgitimTarihi",
+              "BindingName": "EgitimTarihi",
+              "DefaultValue": "",
+              "DataType": "datetime",
+              "IsReadonly": false,
+              "IsRequired": false,
+              "IsEditable": true,
+              "IsHidden": false,
+              "IsUpper": false,
+              "DisplayFormat": "dd.MM.yyyy HH:mm",
+              "Attributes": {},
+              "Label": "Education History",
+              "Layout": {
+                "MinWidth": 0.0,
+                "MaxWidth": "Infinity",
+                "MinHeight": 0.0,
+                "MaxHeight": "Infinity",
+                "FontSize": 12.0,
+                "TabIndex": 0,
+                "Width": 150,
+                "Height": 0,
+                "GridRow": -9,
+                "GridColumn": -9,
+                "GridRowSpan": 1,
+                "GridColumnSpan": 1,
+                "NextRow": true,
+                "IsStack": false,
+                "HorzAlign": 0,
+                "VertAlign": 1
+              },
+              "FrameworkElement": "datetimepicker",
+              "ListAutoExpand": false,
+              "AttachFileAllowed": false
+            },
+            "EgitimSure": {
+              "Name": "EgitimSure",
+              "BindingName": "EgitimSure",
+              "DefaultValue": "",
+              "DataType": "int",
+              "IsReadonly": false,
+              "IsRequired": false,
+              "IsEditable": true,
+              "IsHidden": false,
+              "IsUpper": false,
+              "DisplayFormat": "",
+              "Attributes": {},
+              "Label": "Education time",
+              "Postfix": "dk",
+              "Layout": {
+                "MinWidth": 0.0,
+                "MaxWidth": "Infinity",
+                "MinHeight": 0.0,
+                "MaxHeight": "Infinity",
+                "FontSize": 12.0,
+                "TabIndex": 0,
+                "Width": 0,
+                "Height": 0,
+                "GridRow": -9,
+                "GridColumn": -9,
+                "GridRowSpan": 1,
+                "GridColumnSpan": 1,
+                "NextRow": false,
+                "IsStack": false,
+                "HorzAlign": 0,
+                "VertAlign": 1
+              },
+              "FrameworkElement": "textbox",
+              "ListAutoExpand": false,
+              "AttachFileAllowed": false
+            },
+            "_not": {
+              "Name": "_not",
+              "BindingName": "_not",
+              "DefaultValue": "",
+              "DataType": "string",
+              "IsReadonly": false,
+              "IsRequired": false,
+              "IsEditable": false,
+              "IsHidden": false,
+              "IsUpper": false,
+              "DisplayFormat": "",
+              "Attributes": {},
+              "Layout": {
+                "MinWidth": 0.0,
+                "MaxWidth": "Infinity",
+                "MinHeight": 0.0,
+                "MaxHeight": "Infinity",
+                "FontSize": 12.0,
+                "TabIndex": 0,
+                "Width": 0,
+                "Height": 0,
+                "GridRow": -9,
+                "GridColumn": -9,
+                "GridRowSpan": 1,
+                "GridColumnSpan": 1,
+                "NextRow": true,
+                "IsStack": false,
+                "HorzAlign": 0,
+                "VertAlign": 1
+              },
+              "FrameworkElement": "textblock1",
+              "ListAutoExpand": false,
+              "AttachFileAllowed": false
+            },
+            "_PersonelDurum": {
+              "Name": "_PersonelDurum",
+              "BindingName": "_PersonelDurum",
+              "DefaultValue": "Planlandı",
+              "DataType": "string",
+              "IsReadonly": false,
+              "IsRequired": false,
+              "IsEditable": true,
+              "IsHidden": false,
+              "IsUpper": false,
+              "DisplayFormat": "",
+              "Attributes": {},
+              "Label": "Situation",
+              "Layout": {
+                "MinWidth": 0.0,
+                "MaxWidth": "Infinity",
+                "MinHeight": 0.0,
+                "MaxHeight": "Infinity",
+                "FontSize": 12.0,
+                "TabIndex": 0,
+                "Width": 150,
+                "Height": 0,
+                "GridRow": -9,
+                "GridColumn": -9,
+                "GridRowSpan": 1,
+                "GridColumnSpan": 1,
+                "NextRow": true,
+                "IsStack": false,
+                "HorzAlign": 0,
+                "VertAlign": 1
+              },
+              "FrameworkElement": "combobox",
+              "ListName": "_PersonelDurum",
+              "ListAutoExpand": false,
+              "AttachFileAllowed": false
+            },
+            "_PersonelAdi": {
+              "Name": "_PersonelAdi",
+              "BindingName": "_PersonelAdi",
+              "DefaultValue": "",
+              "DataType": "string",
+              "IsReadonly": false,
+              "IsRequired": false,
+              "IsEditable": true,
+              "IsHidden": false,
+              "IsUpper": false,
+              "DisplayFormat": "",
+              "Attributes": {},
+              "Label": "Employee",
+              "Layout": {
+                "MinWidth": 0.0,
+                "MaxWidth": "Infinity",
+                "MinHeight": 0.0,
+                "MaxHeight": "Infinity",
+                "FontSize": 12.0,
+                "TabIndex": 0,
+                "Width": 150,
+                "Height": 0,
+                "GridRow": -9,
+                "GridColumn": -9,
+                "GridRowSpan": 1,
+                "GridColumnSpan": 1,
+                "NextRow": false,
+                "IsStack": false,
+                "HorzAlign": 0,
+                "VertAlign": 1
+              },
+              "FrameworkElement": "treebox",
+              "ListName": "_PersonelAdi",
+              "ListAutoExpand": false,
+              "AttachFileAllowed": false
+            },
+            "btnEkle": {
+              "Name": "btnEkle",
+              "BindingName": "btnEkle",
+              "DefaultValue": "",
+              "DataType": "string",
+              "IsReadonly": false,
+              "IsRequired": false,
+              "IsEditable": true,
+              "IsHidden": false,
+              "IsUpper": false,
+              "DisplayFormat": "",
+              "UpdateCommand": "act_listeyeEkle",
+              "Attributes": {},
+              "Label": "Add",
+              "Layout": {
+                "MinWidth": 0.0,
+                "MaxWidth": "Infinity",
+                "MinHeight": 0.0,
+                "MaxHeight": "Infinity",
+                "FontSize": 12.0,
+                "TabIndex": 0,
+                "Width": 0,
+                "Height": 0,
+                "GridRow": -9,
+                "GridColumn": -9,
+                "GridRowSpan": 1,
+                "GridColumnSpan": 1,
+                "NextRow": false,
+                "IsStack": false,
+                "HorzAlign": 0,
+                "VertAlign": 1
+              },
+              "FrameworkElement": "button",
+              "ListAutoExpand": false,
+              "AttachFileAllowed": false
+            },
+            "IsEposta": {
+              "Name": "IsEposta",
+              "BindingName": "IsEposta",
+              "DefaultValue": "",
+              "DataType": "bool",
+              "IsReadonly": false,
+              "IsRequired": false,
+              "IsEditable": true,
+              "IsHidden": false,
+              "IsUpper": false,
+              "DisplayFormat": "",
+              "Attributes": {},
+              "Label": "Send training notification e-mail to personnel added to the list. (In Started Status)",
+              "Layout": {
+                "MinWidth": 0.0,
+                "MaxWidth": "Infinity",
+                "MinHeight": 0.0,
+                "MaxHeight": "Infinity",
+                "FontSize": 12.0,
+                "TabIndex": 0,
+                "Width": 0,
+                "Height": 0,
+                "GridRow": -9,
+                "GridColumn": -9,
+                "GridRowSpan": 1,
+                "GridColumnSpan": 5,
+                "NextRow": true,
+                "IsStack": false,
+                "HorzAlign": 0,
+                "VertAlign": 1
+              },
+              "FrameworkElement": "checkbox",
+              "ListAutoExpand": false,
+              "AttachFileAllowed": false
+            }
+          },
+          "WorkitemList": ["PersonelListesi"]
+        },
+        "PersonelListesi": {
+          "containerType": "",
+          "containerName": "PersonelListesi",
+          "containerLayout": {
+            "MinWidth": 0.0,
+            "MaxWidth": "Infinity",
+            "MinHeight": 0.0,
+            "MaxHeight": "Infinity",
+            "FontSize": 12.0,
+            "TabIndex": 0,
+            "Width": 0,
+            "Height": 0,
+            "GridRow": -9,
+            "GridColumn": -9,
+            "GridRowSpan": 1,
+            "GridColumnSpan": 1,
+            "NextRow": false,
+            "IsStack": false,
+            "HorzAlign": 0,
+            "VertAlign": 1
+          },
+          "workitemName": "PersonelListesi",
+          "title": "Katılacak Personeller",
+          "showFilter": true,
+          "isEditable": false,
+          "isRowsRequired": false,
+          "showGroup": true,
+          "PartialPostback": false,
+          "IsReloaded": true,
+          "controlType": "datagrid",
+          "controlLayout": {
+            "MinWidth": 0.0,
+            "MaxWidth": "Infinity",
+            "MinHeight": 0.0,
+            "MaxHeight": "Infinity",
+            "FontSize": 12.0,
+            "TabIndex": 0,
+            "Width": 0,
+            "Height": 0,
+            "GridRow": -9,
+            "GridColumn": -9,
+            "GridRowSpan": 1,
+            "GridColumnSpan": 1,
+            "NextRow": true,
+            "IsStack": false,
+            "HorzAlign": 0,
+            "VertAlign": 1
+          },
+          "Rows": {
+            "d28d1d6f-c987-49b7-b9e5-fb18e2637ff1": {
+              "RowKey": "d28d1d6f-c987-49b7-b9e5-fb18e2637ff1",
+              "RecNumber": 1,
+              "IsSelected": false,
+              "IsDeleted": false,
+              "IsNew": false,
+              "IsUpdated": false,
+              "IsReadOnly": false,
+              "FieldDBValues": {
+                "PersonelDurum": "Planlandı"            ,
+                "PersonelAdi"  : "R^ahmetyazman"        ,
+                "Bolum"        : " Emergency Department",
+                "_RemoveItem"  : "X"
+              },
+              "BaselineDBValues": {},
+              "FieldValues": {
+                "PersonelDurum": "Planlandı"            ,
+                "PersonelAdi"  : "Ahmet Can Yazman"     ,
+                "Bolum"        : " Emergency Department",
+                "_RemoveItem"  : "X"
+              },
+              "FieldObjects": {
+                "PersonelDurum": "d2405979-a6ac-449e-b608-271518121907",
+                "PersonelAdi"  : "c8075102-fd02-4bec-a8b3-51722a8be51e",
+                "Bolum"        : "ae49f2bb-3c34-41b2-bdd0-b29f6794b284"
+              },
+              "ChangedFields": []
+            },
+            "895f91a6-d345-4248-bb3e-846fcd52bada": {
+              "RowKey": "895f91a6-d345-4248-bb3e-846fcd52bada",
+              "RecNumber": 2,
+              "IsSelected": false,
+              "IsDeleted": false,
+              "IsNew": false,
+              "IsUpdated": false,
+              "IsReadOnly": false,
+              "FieldDBValues": {
+                "PersonelDurum": "Planlandı"   ,
+                "PersonelAdi"  : "R^ahmeterdem",
+                "_RemoveItem"  : "X"
+              },
+              "BaselineDBValues": {},
+              "FieldValues": {
+                "PersonelDurum": "Planlandı"      ,
+                "PersonelAdi"  : "Ahmet Erdem (M)",
+                "_RemoveItem"  : "X"
+              },
+              "FieldObjects": {
+                "PersonelDurum": "740125ab-9abf-4ae2-b143-15e4e106a146",
+                "PersonelAdi"  : "9c75782a-d119-467d-8789-ee432986b243"
+              },
+              "ChangedFields": []
+            },
+            "b3dc6e36-f85c-4037-a601-da7a20d59ef9": {
+              "RowKey": "b3dc6e36-f85c-4037-a601-da7a20d59ef9",
+              "RecNumber": 3,
+              "IsSelected": false,
+              "IsDeleted": false,
+              "IsNew": false,
+              "IsUpdated": false,
+              "IsReadOnly": false,
+              "FieldDBValues": {
+                "PersonelDurum": "Planlandı"    ,
+                "PersonelAdi"  : "R^alevtozanli",
+                "_RemoveItem"  : "X"
+              },
+              "BaselineDBValues": {},
+              "FieldValues": {
+                "PersonelDurum": "Planlandı"   ,
+                "PersonelAdi"  : "Alev Tozanlı",
+                "_RemoveItem"  : "X"
+              },
+              "FieldObjects": {
+                "PersonelDurum": "94f757a7-cd6e-4c0b-b3a7-478be8884041",
+                "PersonelAdi"  : "87d04f28-b6db-4a3d-8508-bb7d3b828385"
+              },
+              "ChangedFields": []
+            }
+          },
+          "Commands": {},
+          "FieldDefinitions": {
+            "PersonelDurum": {
+              "Name": "PersonelDurum",
+              "BindingName": "PersonelDurum",
+              "DefaultValue": "",
+              "DataType": "string",
+              "IsReadonly": false,
+              "IsRequired": false,
+              "IsEditable": true,
+              "IsHidden": false,
+              "IsUpper": false,
+              "DisplayFormat": "",
+              "Attributes": {},
+              "Label": "Personnel Status",
+              "Layout": {
+                "MinWidth": 0.0,
+                "MaxWidth": "Infinity",
+                "MinHeight": 0.0,
+                "MaxHeight": "Infinity",
+                "FontSize": 12.0,
+                "TabIndex": 0,
+                "Width": 0,
+                "Height": 0,
+                "GridRow": -9,
+                "GridColumn": -9,
+                "GridRowSpan": 1,
+                "GridColumnSpan": 1,
+                "NextRow": false,
+                "IsStack": false,
+                "HorzAlign": 0,
+                "VertAlign": 1
+              },
+              "FrameworkElement": "combobox",
+              "ListName": "PersonelDurum",
+              "ListAutoExpand": false,
+              "AttachFileAllowed": false
+            },
+            "PersonelAdi": {
+              "Name": "PersonelAdi",
+              "BindingName": "PersonelAdi",
+              "DefaultValue": "",
+              "DataType": "string",
+              "IsReadonly": true,
+              "IsRequired": false,
+              "IsEditable": true,
+              "IsHidden": false,
+              "IsUpper": false,
+              "DisplayFormat": "",
+              "Attributes": {},
+              "Label": "Personnel Name",
+              "Layout": {
+                "MinWidth": 0.0,
+                "MaxWidth": "Infinity",
+                "MinHeight": 0.0,
+                "MaxHeight": "Infinity",
+                "FontSize": 12.0,
+                "TabIndex": 0,
+                "Width": 250,
+                "Height": 0,
+                "GridRow": -9,
+                "GridColumn": -9,
+                "GridRowSpan": 1,
+                "GridColumnSpan": 1,
+                "NextRow": false,
+                "IsStack": false,
+                "HorzAlign": 0,
+                "VertAlign": 1
+              },
+              "FrameworkElement": "textbox",
+              "ListName": "PersonelAdi",
+              "ListAutoExpand": false,
+              "AttachFileAllowed": false
+            },
+            "Bolum": {
+              "Name": "Bolum",
+              "BindingName": "Bolum",
+              "DefaultValue": "",
+              "DataType": "string",
+              "IsReadonly": true,
+              "IsRequired": false,
+              "IsEditable": false,
+              "IsHidden": false,
+              "IsUpper": false,
+              "DisplayFormat": "",
+              "Attributes": {},
+              "Label": "Section",
+              "Layout": {
+                "MinWidth": 0.0,
+                "MaxWidth": "Infinity",
+                "MinHeight": 0.0,
+                "MaxHeight": "Infinity",
+                "FontSize": 12.0,
+                "TabIndex": 0,
+                "Width": 250,
+                "Height": 0,
+                "GridRow": -9,
+                "GridColumn": -9,
+                "GridRowSpan": 1,
+                "GridColumnSpan": 1,
+                "NextRow": false,
+                "IsStack": false,
+                "HorzAlign": 0,
+                "VertAlign": 1
+              },
+              "FrameworkElement": "textbox",
+              "ListName": "Bolum",
+              "ListAutoExpand": false,
+              "AttachFileAllowed": false
+            },
+            "_RemoveItem": {
+              "Name": "_RemoveItem",
+              "BindingName": "_RemoveItem",
+              "DefaultValue": "",
+              "DataType": "string",
+              "IsReadonly": false,
+              "IsRequired": false,
+              "IsEditable": true,
+              "IsHidden": false,
+              "IsUpper": false,
+              "DisplayFormat": "",
+              "UpdateCommand": "act_removeitem",
+              "Attributes": {},
+              "Label": "..",
+              "Layout": {
+                "MinWidth": 0.0,
+                "MaxWidth": "Infinity",
+                "MinHeight": 0.0,
+                "MaxHeight": "Infinity",
+                "FontSize": 12.0,
+                "TabIndex": 0,
+                "Width": 0,
+                "Height": 0,
+                "GridRow": -9,
+                "GridColumn": -9,
+                "GridRowSpan": 1,
+                "GridColumnSpan": 1,
+                "NextRow": false,
+                "IsStack": false,
+                "HorzAlign": 0,
+                "VertAlign": 1
+              },
+              "FrameworkElement": "hyperlink",
+              "ListAutoExpand": false,
+              "AttachFileAllowed": false
+            }
+          },
+          "WorkitemList": []
+        }
+      },
+      "Parameters": {
+        "activityid": "fcd76122-bbac-49eb-911a-24d8ec43b5cd",
+        "userlevel": "(admin)",
+        "servingnode": "XCT_ERDAL",
+        "userid": "32bf475d-4438-476b-b233-03e612dd01ab",
+        "username": "erdalozkazanc",
+        "userfullname": "Erdal Özkazanç",
+        "currentdate": "09/23/2024",
+        "currenttime": "14:00",
+        "currentdatetime": "9/23/2024 2:00:34 PM",
+        "userresource": "Erdal Özkazanç",
+        "userresourceid": "4d6b3807-23fa-4cd7-8479-7015ae831049",
+        "userresourcekey": "R^erdalozkazanc",
+        "userselectedparent": "Cardiology",
+        "userselectedparentid": "3723f081-2776-46c0-b213-9687bc6025a9",
+        "userselectedparentkey": "R^Kardiyoloji",
+        "AppVersion": "3.0.1, Build 1, 9.2.2024 (test)",
+        "AppTitle": "My Hospital",
+        "AppWindowTitle": "My Hospital - Erdal Özkazanç",
+        "AppMode": "test",
+        "AppDefinition": "XCT",
+        "AppCopyright": "(C) 2024- QDC",
+        "AppCustomerName": "XCT Demo Hospital",
+        "ModelVersion": ", Build:12248",
+        "wsloadtime": "152.8961",
+        "wsqueryplan": "\nWorking set : HREgitimActivity_ws\nTotal load time  : 6.0018 miliseconds\nDb Access Count : 0\n\nBefore load : 0\n______________________________________\n Work Item : Main\n\nRetrieval duration : 0 miliseconds \n______________________________________\n Work Item : PersonelListesi\n\nRetrieval duration : 0 miliseconds \nPersonelListesi Lists loaded in : 0 miliseconds \nMain Lists loaded in : 0 miliseconds \n\nActivity Load Time : 46\n"
+      },
+      "WSAttachments": []
+    }
+  }
+  
